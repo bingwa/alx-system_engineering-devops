@@ -1,0 +1,1 @@
+Shows commands for permissions
