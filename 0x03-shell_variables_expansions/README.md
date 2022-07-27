@@ -1,0 +1,1 @@
+shell init, variales & expansions
